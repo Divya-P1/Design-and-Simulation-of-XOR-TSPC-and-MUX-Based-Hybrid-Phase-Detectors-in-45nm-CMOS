@@ -1,0 +1,2 @@
+# Design-and-Simulation-of-XOR-TSPC-and-MUX-Based-Hybrid-Phase-Detectors-in-45nm-CMOS
+This project focuses on the design and simulation of XOR, TSPC, and MUX-based hybrid phase detectors for Phase-Locked Loop (PLL) applications using 45nm CMOS technology. The proposed architecture combines the advantages of XOR and TSPC logic to achieve accurate full-range phase detection while maintaining low power consumption and high reliability.
