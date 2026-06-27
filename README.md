@@ -53,7 +53,9 @@ Communication Systems
 High-Speed Digital Circuits
 
 Documentation
+
 📄 Research Paper: Hybrid-Phase-Detector-45nm-CMOS_paper.pdf
 
 Author
+
 Divya P Electronics and Communication Engineering
